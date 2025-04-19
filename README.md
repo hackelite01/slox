@@ -1,6 +1,3 @@
-<div align="center">
-   <a href="https://github.com/hackelite01/slox"><img src="https://github.com/user-attachments/assets/9fadee1e-a33c-46e3-9eca-c04aa47a443e" hight="225" width="450" align="center"/></a>
-</div>
 
 <br>
 <br>
@@ -146,9 +143,6 @@ sudo mv chromedriver /usr/bin
 
 <br>
 
-<p align="center">
-<img src="https://github.com/user-attachments/assets/9ec3fed0-45ff-4cb3-988c-f8cd66e85082">
-</p>
 
 
 <br>
